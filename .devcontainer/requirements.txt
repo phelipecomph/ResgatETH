@@ -1,0 +1,5 @@
+# Python3.10
+
+
+#Dev
+ipykernel==6.29.5
